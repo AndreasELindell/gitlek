@@ -11,12 +11,6 @@
 | ---|---|---| 
 | hello| this| works! |
 
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    title Key elements in Product X
-    "Calcium" : 42.96
-    "Potassium" : 50.05
-    "Magnesium" : 10.01
-    "Iron" :  5
+Piechart dont work. idk why but it is waht it is
 
 **I hope this chart works now**
